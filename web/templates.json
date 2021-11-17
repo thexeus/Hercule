@@ -1,0 +1,16 @@
+{
+    "templates": [
+        {
+            "name": "WhatsApp",
+            "dir_name": "whatsapp",
+            "module": true,
+            "import_file": "mod_whatsapp"
+        },
+        {
+            "name": "Google Drive",
+            "dir_name": "gdrive",
+            "module": true,
+            "import_file": "mod_gdrive"
+        }
+    ]
+}

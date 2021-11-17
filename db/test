@@ -1,0 +1,20 @@
+{
+    "Info": {
+        "Os": "Win64",
+        "Platform": "Win32",
+        "Cores": 8,
+        "Ram": 8,
+        "GPU Vendor": "Google Inc. (Intel)",
+        "GPU": "ANGLE (Intel, Intel(R) UHD Graphics 620 Direct3D11 vs_5_0 ps_5_0, D3D11-23.20.16.4973)",
+        "Resolution": "1280x720",
+        "Browser": "Chrome/95.0.4638.69"
+    },
+    "Location": {
+        "Latitude": "6.4357769 deg",
+        "Longitude": "100.2079174 deg",
+        "Accuracy": "14.092 m",
+        "Altitude": "None",
+        "Direction": "None deg",
+        "Speed": "None m/s"
+    }
+}
